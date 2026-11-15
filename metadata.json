@@ -1,0 +1,8 @@
+{
+  "name": "Angry Birds Classic",
+  "description": "משחק אנגרי ברדס קלאסי עם כל הדמויות והחזירים בגרפיקה מקורית, מנוע פיזיקה מלא, 8 שלבים מרתקים ואפקטים קוליים.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
